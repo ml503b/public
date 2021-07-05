@@ -1,0 +1,5 @@
+This is my report. Installed virtualbox, ubuntu 16.04, python 2.7. After the installation I run Into a trouble when I tried install pyowm. Got an error code 1. Tried to fix it by upgrading pip. After upgrading pip start failing to traceback. Spend few days try to fix it. Not success.  Decided to use latest ubuntu version 20, python3. I never work in python ago but my C skills also are not on that level
+1.	Exercise – not understand what mean and how to use declare –x. so script is designed to use user input as a City and api key is hardcoded.  Not continue with the docker etc. in this exercise as I spend lots of time by clearing errors in ubuntu 16.04, approx. 4 days I was involved in.
+2.	Exercise – in short manner of time and my no experiences in python I was unable to figure out effective way for storing and comparing data. So again I only created a simple script to test ip ports. It not work against ip range (have only one ip for testing purpose)  and is not repetitive.
+3.	Skipped fully  
+I do not achieve the goals of this exercise but I have strong feeling to report the time what I spend working on this. That’s all what I had  
